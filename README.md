@@ -9,6 +9,8 @@ This tech demo was thrown together for a pitch some time around 2012/2013 during
 [Demo](http://demo-karaoke.artofrawr.com/)  
 [Source Code](https://github.com/artofrawr/demo-karaoke)  
 
+<br>  
+<br>  
 
 [<img src="https://demo-secondscreen.artofrawr.com/static/secondscreen.jpg" width="250" />](https://github.com/artofrawr/demo-secondscreen)
 
