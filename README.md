@@ -1,6 +1,17 @@
 # demos
 
 
+[<img src="https://demo-contentful.artofrawr.com/contentful.jpg" width="250" />](https://github.com/artofrawr/demo-contentful)
+
+### Modular Pages via Contentful
+This demo is a proof of concept for "modular pages" controlled through a headless CMS. Contentful content models are created, that represent modular building blocks of a page. In React each of these content models is mapped to a React component, so that the page can be "assembled" dynamically based on the response from the CMS. 
+
+[Demo](https://demo-contentful.artofrawr.com/)  
+[Source Code](https://github.com/artofrawr/demo-contentful)  
+
+<br>  
+<br>  
+
 [<img src="https://demo-karaoke.artofrawr.com/images/karaoke.jpg" width="250" />](https://github.com/artofrawr/demo-karaoke)
 
 ### Web Audio API Karaoke
